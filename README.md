@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Keerthi 👋 
+
+I've co-founded and served as the CEO of [Willow Health](https://www.willowbehavioralhealth.com/), a crisis mental health company backed by a16z; co-developed the industry gold standard methodology for measuring doctor quality; and run data science and analytics teams in health tech. My specialty is tackling open-ended data problems by combining creativity and structured, analytical thinking. 
+
+I'm currently honing my engineering skills and developing the tools to do impactful ML research as a participant in the [Recurse Center](www.recurse.com). My projects include:
+
+- 🧟 Creating [Drudgeford](https://drudgeford.quest), a multi-player, online dungeon-crawling game hosted on AWS
+- 🤖 Building ML models to tackle a variety of different challenges with a variety of different architectures
+- 🦸 Working my way through Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) to get a better understanding of transformers and other neural net fundamentals
+- ✍️ Creating an LLM "Writers' Workshop" where you can get your writing critiqued by famous authors of your choice
 
 <!--
 **k-reddy/k-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
