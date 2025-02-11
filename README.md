@@ -4,7 +4,7 @@ I've co-founded and served as the CEO of [Willow Health](https://www.willowbehav
 
 I'm currently honing my engineering skills and developing the tools to do impactful ML research as a participant in the [Recurse Center](www.recurse.com). My projects include:
 
-- 🧟 Creating [Drudgeford](https://drudgeford.quest), a multi-player, online dungeon-crawling game hosted on AWS
+- 🧟 Creating [Drudgeford](https://drudgeford.quest), a multi-player, online, dungeon-crawling game hosted on AWS
 - 🤖 Building ML models to tackle a variety of different challenges with a variety of different architectures
 - 🦸 Working my way through Karpathy's [Zero to Hero](https://karpathy.ai/zero-to-hero.html) to get a better understanding of transformers and other neural net fundamentals
 - ✍️ Creating an LLM "Writers' Workshop" where you can get your writing critiqued by famous authors of your choice
